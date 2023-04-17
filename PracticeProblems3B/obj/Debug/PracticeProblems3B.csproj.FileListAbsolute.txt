@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\PracticeProblems3B\PracticeProblems3B\bin\Debug\PracticeProblems3B.exe.config
+C:\Users\Dell\source\repos\PracticeProblems3B\PracticeProblems3B\bin\Debug\PracticeProblems3B.exe
+C:\Users\Dell\source\repos\PracticeProblems3B\PracticeProblems3B\bin\Debug\PracticeProblems3B.pdb
+C:\Users\Dell\source\repos\PracticeProblems3B\PracticeProblems3B\obj\Debug\PracticeProblems3B.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PracticeProblems3B\PracticeProblems3B\obj\Debug\PracticeProblems3B.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\PracticeProblems3B\PracticeProblems3B\obj\Debug\PracticeProblems3B.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PracticeProblems3B\PracticeProblems3B\obj\Debug\PracticeProblems3B.exe
+C:\Users\Dell\source\repos\PracticeProblems3B\PracticeProblems3B\obj\Debug\PracticeProblems3B.pdb
